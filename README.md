@@ -1,6 +1,6 @@
 Hi, I’m @html107
 I’m interested in making websites
-I’m currently learning html.
+I’m currently learning html and python.
 Nothing really...
 I'm just new.
 

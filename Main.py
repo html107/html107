@@ -22,10 +22,6 @@ pygame.display.set_caption('Snake Game')
 
 clock = pygame.time.Clock()
 
-with open("Highscore.txt", "r") as f:
-    highscore = f.read()
-
-
 snake_block = 10
 snake_speed = 15
 
